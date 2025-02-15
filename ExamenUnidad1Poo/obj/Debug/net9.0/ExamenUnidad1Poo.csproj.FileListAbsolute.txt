@@ -1,0 +1,7 @@
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.csproj.AssemblyReference.cache
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.AssemblyInfoInputs.cache
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.AssemblyInfo.cs
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.csproj.CoreCompileInputs.cache
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\difer\Desktop\Proyecto\Unidad I\ExamenUnidad1Poo\ExamenUnidad1Poo\obj\Debug\net9.0\ExamenUnidad1Poo.MvcApplicationPartsAssemblyInfo.cache
